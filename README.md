@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Software developper at GOMYCODE and Digital Communication.
-- skills : I have learned how to use HTML, CSS, Bootstrap, and Tailwind CSS.I am currently learning JavaScript to be able to create projects such as websites and web applications. 
+- skills : I have learned how to use HTML, CSS, Bootstrap, and Tailwind CSS React js and Next js.I am currently learning JavaScript to be able to create projects such as websites and web applications. 
 I am looking for an internship as a junior software developer.
 - 💬 Ask me about ...
 - 📫 How to reach me: ndenegeorgesmichelngor@gmail.com
